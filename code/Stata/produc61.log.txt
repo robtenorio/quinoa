@@ -1,0 +1,1146 @@
+----------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/rtenorio/Google Drive/Ind Study Powerhouse/Do Files/produc61.log
+  log type:  text
+ opened on:  21 Apr 2015, 11:53:50
+
+. 
+. tab produc61
+
+    cÛdigo del producto (recodificaciÛn |
+                                  inei) |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                              biscochos |     19,541        0.53        0.53
+            galletas de soda (a granel) |     19,527        0.53        1.07
+                 pan de yema (especial) |     19,502        0.53        1.60
+                  pan de molde envasado |     19,522        0.53        2.13
+                           pan integral |     19,511        0.53        2.67
+                            pan franc…s |     19,515        0.53        3.20
+                  pan tolete (labranza) |     19,505        0.53        3.73
+                                 tortas |     19,519        0.53        4.27
+                  pan corriente o com⁄n |     19,519        0.53        4.80
+                             pan chapla |     19,502        0.53        5.33
+               arroz corriente a granel |     19,708        0.54        5.87
+                         arroz superior |     19,609        0.54        6.41
+                            arroz extra |     39,003        1.07        7.47
+                         avena a granel |     19,517        0.53        8.01
+                         avena envasada |     19,520        0.53        8.54
+                       harina de quinua |     19,500        0.53        9.07
+harina de trigo o cebada tostada (macro |     20,483        0.56        9.63
+   harina sin prep. de trigo (envasada) |     19,501        0.53       10.17
+              harina de maÕz (chochoca) |     19,510        0.53       10.70
+       harina prep. de trigo (envasada) |     19,500        0.53       11.23
+                maicena envasada (maÌz) |     19,501        0.53       11.77
+                 maÕz amarillo (cancha) |     19,592        0.54       12.30
+         maÕz blanco corriente (cancha) |     19,502        0.53       12.83
+                            maÕz morado |     19,522        0.53       13.37
+                     maÕz pelado (mote) |     19,542        0.53       13.90
+                          quinua entera |     19,510        0.53       14.43
+                     s…mola  (envasada) |     19,502        0.53       14.97
+                     trigo grano entero |     19,628        0.54       15.50
+                        fideos a granel |     19,513        0.53       16.04
+              otros fideos ( envasados) |     39,088        1.07       17.11
+                        carne de alpaca |     19,502        0.53       17.64
+                       carne de carnero |     19,609        0.54       18.17
+                       carne de chancho |     19,502        0.53       18.71
+                     gallina eviscerada |     19,518        0.53       19.24
+                       pollo eviscerado |     19,555        0.53       19.78
+                        pierna de pollo |     19,507        0.53       20.31
+                    menudencia de pollo |     19,767        0.54       20.85
+                       pechuga de pollo |     19,553        0.53       21.38
+                   bofe de res (pulmon) |     19,678        0.54       21.92
+                          hÕgado de res |     19,529        0.53       22.45
+                        mondongo de res |     19,535        0.53       22.99
+                            pata de res |     19,500        0.53       23.52
+                           res; bisteck |     19,504        0.53       24.05
+                    carne molida de res |     19,504        0.53       24.59
+                         res; churrasco |     19,507        0.53       25.12
+                        res; sancochado |     19,500        0.53       25.65
+                     corte ⁄nico de res |     19,569        0.53       26.19
+                           hueso de res |     19,510        0.53       26.72
+                                hot dog |     19,500        0.53       27.25
+                         tocino ahumado |     19,509        0.53       27.79
+                                chorizo |     19,500        0.53       28.32
+                               jamonada |     19,506        0.53       28.85
+                         jam”n del paÕs |     19,506        0.53       29.39
+                     empanadas rellenas |     19,522        0.53       29.92
+            animales vivos para consumo |     20,562        0.56       30.48
+                           jam”n ingl…s |     19,500        0.53       31.02
+                              camarones |     19,522        0.53       31.55
+                              cangrejos |     19,500        0.53       32.08
+                                 choros |     19,513        0.53       32.61
+                          bonito fresco |     19,513        0.53       33.15
+                         caballa fresca |     19,516        0.53       33.68
+                               cojinova |     19,501        0.53       34.21
+                                  jurel |     19,506        0.53       34.75
+                                   liza |     19,511        0.53       35.28
+                                merluza |     19,507        0.53       35.81
+                           tollo fresco |     19,507        0.53       36.35
+                         grated de at⁄n |     19,512        0.53       36.88
+                         filete de at⁄n |     19,520        0.53       37.41
+                      grated de sardina |     19,507        0.53       37.95
+             otros pescados en conserva |     19,693        0.54       38.49
+                             boquichico |     19,652        0.54       39.02
+                        leche evaporada |     58,582        1.60       40.62
+                         leche en polvo |     19,511        0.53       41.16
+                   leche fresca de vaca |     19,524        0.53       41.69
+                               quesillo |     19,500        0.53       42.22
+                    queso fresco (vaca) |     19,503        0.53       42.76
+                        queso mantecoso |     19,500        0.53       43.29
+                            queso otros |     19,737        0.54       43.83
+                                yogourt |     19,572        0.53       44.36
+                         crema de leche |     19,509        0.53       44.90
+             huevos a granel de gallina |     19,508        0.53       45.43
+           huevos de taricaya (tortuga) |     19,501        0.53       45.96
+                           otros huevos |     19,508        0.53       46.50
+                aceite vegetal envasado |     19,511        0.53       47.03
+                aceite vegetal a granel |     19,499        0.53       47.56
+              aceite compuesto envasado |     19,503        0.53       48.09
+              aceite compuesto a granel |     19,502        0.53       48.63
+                   mantequilla envasada |     19,505        0.53       49.16
+                   mantequilla a granel |     19,501        0.53       49.69
+                     margarina envasada |     19,503        0.53       50.23
+                     margarina a granel |     19,500        0.53       50.76
+                           ajÕ pimiento |     19,524        0.53       51.29
+ajÕ seco entero (mirasol, panca y amar. |     20,208        0.55       51.85
+                             ajÕ rocoto |     19,506        0.53       52.38
+                                   apio |     19,502        0.53       52.91
+                              beterraga |     19,502        0.53       53.44
+                                br”coli |     19,510        0.53       53.98
+                          cebolla china |     19,503        0.53       54.51
+                 cebolla roja de cabeza |     19,503        0.53       55.04
+                        cebolla de cola |     19,499        0.53       55.58
+                         choclo criollo |     19,589        0.54       56.11
+                         choclo serrano |     19,506        0.53       56.64
+                               culantro |     19,514        0.53       57.18
+                      lechuga americana |     19,502        0.53       57.71
+                        lechuga criolla |     19,550        0.53       58.25
+                              pepinillo |     19,508        0.53       58.78
+                                   poro |     19,505        0.53       59.31
+                         tomate redondo |     19,498        0.53       59.84
+                        tomate italiano |     19,500        0.53       60.38
+                              zanahoria |     19,522        0.53       60.91
+                          zapallo macre |     19,503        0.53       61.44
+                          zapallo loche |     19,798        0.54       61.99
+                              ajÕ verde |     19,501        0.53       62.52
+                    tomate de la regi”n |     19,530        0.53       63.05
+                                  lim”n |     19,917        0.54       63.60
+                              mandarina |     19,579        0.54       64.13
+                      manzana corriente |     19,544        0.53       64.67
+                                  mel”n |     19,503        0.53       65.20
+                        naranja de jugo |     19,531        0.53       65.73
+                                 papaya |     19,504        0.53       66.27
+                                   pi—a |     19,503        0.53       66.80
+                     pl¡tano de la isla |     19,501        0.53       67.33
+                        pl¡tano de seda |     19,532        0.53       67.86
+                                 sandÕa |     19,514        0.53       68.40
+          uvas; otros (borgo—o, mollar) |     19,526        0.53       68.93
+                jugo de fruta (en lata) |     19,501        0.53       69.46
+                    arveja seca partida |     19,506        0.53       70.00
+                         frejol canario |     19,516        0.53       70.53
+                            habas secas |     19,534        0.53       71.06
+                        harina de habas |     19,522        0.53       71.60
+                       harina de arveja |     19,501        0.53       72.13
+                                lenteja |     19,507        0.53       72.66
+                                 pallar |     19,503        0.53       73.20
+                          camote morado |     19,517        0.53       73.73
+                        camote amarillo |     19,739        0.54       74.27
+                harina de yuca (fari—a) |     19,499        0.53       74.80
+                                 olluco |     19,554        0.53       75.34
+                          papa amarilla |     19,507        0.53       75.87
+                            papa blanca |     19,513        0.53       76.40
+                            papa huayro |     19,501        0.53       76.94
+                          yuca amarilla |     19,505        0.53       77.47
+                            yuca blanca |     19,510        0.53       78.00
+                             papa color |     19,503        0.53       78.54
+                          az⁄car blanca |     19,502        0.53       79.07
+                           az⁄car rubia |     19,504        0.53       79.60
+                             chocolates |     19,683        0.54       80.14
+                         cocoa a granel |     19,525        0.53       80.67
+                            t… a granel |     19,512        0.53       81.21
+                           t… filtrante |     19,514        0.53       81.74
+                       caf… instant¡neo |     19,513        0.53       82.27
+                     caramelos a granel |     19,501        0.53       82.81
+                        flan (envasado) |     19,509        0.53       83.34
+                    gelatina (a granel) |     19,547        0.53       83.87
+                     mazamorra envasada |     19,512        0.53       84.41
+                          miel de abeja |     19,498        0.53       84.94
+                 refrescos instant¡neos |     19,500        0.53       85.47
+            ajÕ molido panca (especial) |     21,291        0.58       86.05
+                             ajo entero |     19,529        0.53       86.59
+                            aji no moto |     19,515        0.53       87.12
+               comino molido (a granel) |     20,467        0.56       87.68
+             pimienta molida (a granel) |     20,374        0.56       88.24
+                           sal a granel |     19,500        0.53       88.77
+        sal de cocina yodada (envasada) |     19,501        0.53       89.30
+          sal yodada de mesa (envasada) |     19,497        0.53       89.84
+     colorante y saborizante (sibarita) |     19,596        0.54       90.37
+                           agua mineral |     19,522        0.53       90.91
+                       bebidas gaseosas |     19,575        0.53       91.44
+               cerveza blanca (botella) |     19,498        0.53       91.97
+                           pisco de uva |     19,501        0.53       92.51
+                                    ron |     19,501        0.53       93.04
+                                 whisky |     19,501        0.53       93.57
+                            maÕz, trigo |     19,512        0.53       94.11
+otros alimentos para animales (residuos |     39,528        1.08       95.19
+                             anticuchos |     19,581        0.54       95.72
+                           chicharrones |     19,512        0.53       96.25
+                choncholines (pancitas) |     58,477        1.60       97.85
+                       pollo a la brasa |     19,512        0.53       98.39
+                             parrillada |     20,055        0.55       98.93
+                                tamales |     19,507        0.53       99.47
+                          chifa al paso |     19,502        0.53      100.00
+----------------------------------------+-----------------------------------
+                                  Total |  3,659,076      100.00
+
+. 
+. label list produc61
+produc61:
+      110051 biscochos
+      110052 galletas de soda (envasada)
+      110053 galletas de soda (a granel)
+      110054 galleta dulce (envasada)
+      110055 galleta dulce (a granel)
+      110056 galleta de agua
+      110057 galleta todo tipo (rellenitas de todo)
+      110058 pan baguette
+      110059 pan bico
+      110060 pan bollo
+      110061 pan carioca (especial)
+      110062 pan de yema (especial)
+      110063 pan de molde envasado
+      110064 pan dulce (chancay)
+      110066 pan de manteca
+      110067 pan de mantequilla
+      110068 pan integral
+      110069 pan de cebada
+      110070 pan latachuta
+      110071 pan de leche (colisa, chileno)
+      110072 pan de camote (camote-pan)
+      110073 pan familiar
+      110074 pan franc…s
+      110075 pan popular
+      110076 pan tolete (labranza)
+      110077 pan batido (marraqueta)
+      110078 panes, otros (shute y de chirimoya)
+      110079 panetones
+      110080 pasteles corrientes (alfajor,cachito,milhojas,etc)
+      110081 pasteles especiales (biscotela,chantilly,chocolate)
+      110082 pasteles similares (churros)
+      110083 pizzas
+      110084 queques
+      110085 turrones
+      110086 tortas
+      110087 tostadas a granel
+      110088 tostadas envasada
+      110089 otros pasteles y dulces (cachanga,pudÕn)
+      110090 otros productos de panaderÕa
+      110091 pan corriente o com⁄n
+      110092 pan cuay
+      110093 pan chapla
+      110094 king kong
+      110095 pan taparaco
+      110096 pan torta
+      110097 pan charqui
+      110098 pan huaro
+      110099 pan de torata
+      110100 arroz corriente a granel
+      110101 arroz superior
+      110102 arroz extra
+      110103 arroz familiar
+      110104 arroz integral
+      110105 avena a granel
+      110106 avena envasada
+      110107 ca—igua entera
+      110108 cebada entera tostada
+      110109 cebada entera
+      110110 centeno (grano seco)
+      110111 harina de quinua
+      110112 harina de cebada
+      110113 harina de trigo o cebada tostada (macro)
+      110114 harina sin prep. de trigo (envasada)
+      110115 harina sin prep. de trigo (a granel)
+      110116 harina de maÕz (chochoca)
+      110117 polenta (harina de maÕz)
+      110118 harina prep. de trigo (envasada)
+      110119 harina de trigo (a granel)
+      110121 maicillo molido
+      110122 maÕz (jora)
+      110123 maicena envasada (maÌz)
+      110124 maicena suelta (maÌz)
+      110125 maÕz amarillo (cancha)
+      110126 maÕz blanco corriente (cancha)
+      110127 maÕz pardo cancha
+      110128 maÕz hojuelas (corn flakes)
+      110129 maÕz morado
+      110130 maÕz pelado (mote)
+      110131 maÕz revent”n (americano, pop-corn)
+      110132 maÕz tostado (cancha)
+      110133 maÕz otras variedades
+      110134 malta
+      110135 mor”n
+      110136 quinua hojuelas (flakes)
+      110137 quinua entera
+      110138 s…mola a granel
+      110139 s…mola  (envasada)
+      110142 trigo grano entero
+      110143 trigo pelado (mote)
+      110144 trigor (trigo chancado)
+      110145 otras harinas de cereales y derivados
+      110146 fideos tallarÕn (a granel)
+      110147 fideos tallarÕn (a granel)
+      110149 fideos a granel
+      110150 otros fideos ( envasados)
+      110151 macarrones (pasta)
+      110152 ravioles (pastas)
+      110153 want¡n
+      110154 pastas diversas
+      110155 otros cereales y derivados (kiwicha)
+      110156 tallarÕn de casa
+      110158 trigo remojado
+      110159 maÕz blaco cuzco (cancha)
+      110160 maÕz chulpe o paccho (cancha)
+      110161 trigo resbalado (shambar)
+      110162 harina de maÕz
+      110163 polenta a granel
+      110201 carne de alpaca
+      110202 cabeza o pata de alpaca
+      110203 mondongo de alpaca
+      110204 cabra; carne
+      110205 mondongo de caprino
+      110206 cabrito; carne
+      110207 hÕgado de carnero (incl.lengua)
+      110208 cabeza o pata de carnero
+      110209 mondongo de carnero
+      110211 carnero, pierna, brasuelo
+      110212 carne de carnero
+      110213 hÕgado de chancho (incl. lengua)
+      110214 cabeza o pata de chancho
+      110215 chancho, testa
+      110216 carne de chancho
+      110217 pellejo
+      110218 chancho, chuleta, pierna
+      110220 conejo; carne
+      110221 cuy; carne
+      110222 gallina eviscerada
+      110223 menudencia de gallina
+      110224 pollo con visceras (entero)
+      110225 llama; carne
+      110226 mondongo de llama
+      110227 cabeza o pata de llama
+      110228 mono (carne)
+      110229 paloma
+      110230 pato (eviscerado)
+      110231 pavo
+      110232 menudencia de pato, pavo, etc.
+      110233 pich”n de paloma domestico (carne)
+      110234 alas de pollo
+      110235 pollo eviscerado
+      110236 pierna de pollo
+      110237 menudencia de pollo
+      110238 pechuga de pollo
+      110239 milanesa de pollo
+      110240 otras carnes de aves
+      110241 sangre de aves
+      110242 rana: carne
+      110243 lengua de res
+      110244 bofe de res (pulmon)
+      110245 hÕgado de res
+      110246 mondongo de res
+      110247 pata de res
+      110248 cola de res
+      110249 res; asado
+      110250 res; bisteck
+      110251 carne molida de res
+      110252 res; carne sin hueso
+      110253 res; churrasco
+      110254 res; lomo
+      110255 res; sancochado
+      110256 corte ⁄nico de res
+      110257 hueso de res
+      110258 sachavaca; carne
+      110259 sajino; carne
+      110260 tortuga; carne
+      110261 venado; carne
+      110262 mondongo nep
+      110263 otras carnes
+      110264 alpaca; charqui
+      110266 alpaca; chalona
+      110267 cabra: carne seca o cecina
+      110268 carnero; chalona
+      110269 carnero; carne seca o cecina
+      110270 costillas ahumadas (chancho)
+      110271 chancho; carne seca o cecina
+      110272 hot dog
+      110273 tocino ahumado
+      110274 chorizo
+      110275 jamonada
+      110276 jam”n del paÕs
+      110277 relleno de chancho
+      110278 chicharr”n de prensa
+      110279 queso de chancho
+      110280 mortadela
+      110281 pate de hÕgado
+      110282 salchicha (tipo natural)
+      110283 chicharr”n de chancho
+      110284 huangana; carne seca (cecina), charqui
+      110285 llama; charqui
+      110286 llama: carne seca o cecina
+      110287 llama: chalona
+      110288 res; carne seca (cecina)
+      110289 res; chalona
+      110290 carne en conserva (enlatada)
+      110291 carne seca nep
+      110292 cecina nep
+      110293 chalona nep
+      110294 charqui nep
+      110295 otras carnes procesadas
+      110296 embutidos diversos
+      110297 empanadas de carne
+      110298 empanadas de pollo
+      110299 empanadas rellenas
+      110300 animales vivos para consumo
+      110301 animales vivos para autoconsumo (crianza)
+      110302 higado y molleja de pollo (automercado, congelado)
+      110303 coraz”n de res
+      110304 jam”n ingl…s
+      110305 jam”n prensado (huaraz)
+      110306 criadilla
+      110307 ri—”n
+      110308 ceso de res
+      110309 ceso de carnero
+      110310 carachapa carne (roedor)
+      110312 menudencia de taricaya motelo (totuga)
+      110313 hÕgado de pollo
+      110314 cabeza de res
+      110315 sangre de carnero
+      110316 sangre de otras reses
+      110318 molleja de pollo
+      110350 algas serranas
+      110351 algas marinas
+      110352 almejas
+      110353 calamar-pota
+      110354 camarones
+      110355 camaroncito seco (chino)
+      110356 cangrejos
+      110357 caracoles
+      110358 choros
+      110359 conchas negras
+      110360 conchas blancas
+      110361 conchita, palabritas frescas (norte)
+      110362 conchita, palabritas saladas (norte)
+      110363 conchitas, (maruchas frescas)
+      110364 conchitas, (maruchas secas)
+      110365 erizo
+      110366 hueveras de pescado(caviar)
+      110367 langosta de mar
+      110368 langostino
+      110369 lapas (mariscos)
+      110370 machas secas
+      110371 machas frescas
+      110372 mariscos en conserva (cholgas,etc.)
+      110373 mejill”n
+      110374 muy-muy
+      110375 pulpo
+      110376 yuyos marinos
+      110377 otros moluscos y mariscos
+      110378 aguarachi
+      110379 aguja
+      110380 albacora
+      110381 at⁄n
+      110382 bacalao seco (pescado)
+      110383 bacalao fresco
+      110384 bagre
+      110386 bonito fresco
+      110389 caballa fresca
+      110390 caballa congelada
+      110391 caballa seca o salada
+      110392 cabrilla
+      110393 cachema o ayanque
+      110395 carachama
+      110396 cabinza
+      110397 chauchilla (bonito chico)
+      110398 chavelo
+      110399 chita
+      110400 cojinova
+      110401 congrio
+      110402 corvina
+      110403 corvinilla
+      110404 doncella
+      110405 gamitana
+      110406 guitarra fresca
+      110408 guitarra seco (salado)
+      110409 julilla
+      110410 jurel
+      110411 lenguado
+      110412 life
+      110413 liza
+      110414 lorna
+      110415 machete
+      110416 mojarrilla
+      110418 merluza
+      110419 mero fresco
+      110422 ojo de uva
+      110424 paiche fresco
+      110426 paiche seco o salado
+      110427 palometa
+      110428 peje
+      110429 peje blanco
+      110430 peje sapo
+      110431 pejerrey
+      110432 perico fresco
+      110433 perico congelado
+      110435 pintadilla
+      110436 raya, batea o manta
+      110437 robalo
+      110438 salm”n
+      110439 sardina
+      110440 sierra
+      110441 suche
+      110442 coco
+      110443 tollo fresco
+      110446 trucha fresca
+      110447 trucha congelada
+      110448 trucha seco o salado
+      110449 visceras (cabeza, espinazo, etc.)
+      110450 z⁄ngaro
+      110451 grated de at⁄n
+      110452 filete de at⁄n
+      110453 calamar-pota
+      110454 conserva jurel
+      110455 conserva merluza
+      110456 grated de sardina
+      110457 conserva sardina (filete)
+      110458 conserva sardina (salsa de tomate)
+      110459 otros pescados
+      110460 otros pescados en conserva
+      110461 boquichico
+      110462 carachi
+      110463 dorado de la regi”n
+      110465 corvina de la regi”n
+      110466 s¡balo
+      110467 conchas de abanico
+      110468 jurel congelado
+      110473 chanco de mar
+      110474 acahuarasu fresco
+      110476 paco fresco
+      110477 ractacari fresco
+      110478 shambira fresco
+      110479 tucumare fresco
+      110480 yambina fresco o yahuarachi
+      110481 boquichico seco
+      110482 chula fresco
+      110483 concha pata burro
+      110484 chiu-chiu (fresco)
+      110485 tilapia (moyobamba)
+      110486 maporeto seco
+      110489 sardina seca
+      110496 yashaco fresco
+      110499 otros pescados secos
+      110501 leche cortada Û cuajada
+      110502 leche condensada (nestle)
+      110503 leche de soya
+      110504 leche evaporada
+      110506 leche en polvo
+      110507 leche fresca de cabra
+      110508 leche fresca envasada
+      110509 leche reconstituida
+      110510 leche en polvo maternizada
+      110511 leche fresca de vaca
+      110512 otras leches (chocolatada, malteada)
+      110513 quesillo
+      110514 queso fresco (vaca)
+      110515 queso fresco (cabra)
+      110516 queso gruyere
+      110517 queso mantecoso
+      110518 queso mozzarella
+      110519 queso parmesano
+      110521 queso serrano
+      110522 queso otros
+      110523 requez”n
+      110524 yogourt
+      110525 crema de leche
+      110526 huevos a granel de gallina
+      110528 huevos de motelo
+      110529 huevos de pata
+      110530 huevos de pava
+      110531 huevos de taricaya (tortuga)
+      110532 otros huevos
+      110533 huevos envasados
+      110534 huevos de corral
+      110551 aceite vegetal envasado
+      110552 aceite vegetal a granel
+      110553 aceite compuesto envasado
+      110554 aceite compuesto a granel
+      110555 aceite de maiz
+      110556 aceite de soya
+      110557 aceite de olivo
+      110558 aceite crudo de semillas oleaginosas
+      110559 manteca vegetal (envasada)
+      110560 manteca vegetal (a granel)
+      110561 manteca de chancho
+      110562 mantequilla envasada
+      110563 mantequilla a granel
+      110564 margarina envasada
+      110565 margarina a granel
+      110566 sebo
+      110567 otras grasas y aceites
+      110601 acelga
+      110602 ajÕ limo
+      110603 ajÕ escabeche
+      110604 ajÕ pimiento
+      110605 ajÕ seco entero (mirasol, panca y amar.)
+      110606 ajÕ rocoto
+      110607 ajÕ otras variedades
+      110608 albahaca
+      110609 alcachofa
+      110610 apio
+      110611 alverja verde (criolla)
+      110613 berenjena
+      110614 berros
+      110615 beterraga
+      110616 br”coli
+      110617 caigua
+      110618 calabaza (chiclayo, lacayote)
+      110619 cebolla china
+      110620 cebolla roja de cabeza
+      110621 cebolla de cola
+      110622 cebolla regional (blanca)
+      110623 chileno verde
+      110624 choclo criollo
+      110625 choclo serrano
+      110626 col china (pacchoy)
+      110627 col crespa
+      110628 col coraz”n
+      110629 coliflor (sin hojas)
+      110630 culantro
+      110631 esp¡rragos verdes
+      110632 esp¡rragos en conserva
+      110633 espinaca
+      110634 frijol verde
+      110635 frijolito chino (nacido)
+      110636 haba verde
+      110637 hierbabuena
+      110638 huacatay
+      110639 lechuga
+      110640 lechuga americana
+      110641 lechuga criolla
+      110642 nabo
+      110643 oregano en ramas (porcion)
+      110644 pepinillo
+      110645 perejil
+      110646 pl¡tano verde (inguiri)
+      110647 poro
+      110648 rabanito
+      110649 sacha-culantro
+      110650 tomate redondo
+      110651 tomate italiano
+      110652 vainita verde (americana)
+      110653 verdura picada
+      110654 zanahoria
+      110655 zapallo macre
+      110656 zapallo italiano
+      110657 zapallo loche
+      110658 otras verduras y legumbres en conserva
+      110659 otras verduras y legumbres frescas
+      110660 asnapa; huacatay,or…gano, culantro,perejil
+      110661 ajÕ dulce
+      110662 ajÕ verde
+      110663 pallar verde
+      110664 zapallo de carga
+      110665 ajÕ charapita
+      110666 ajÕ ojo de pollo
+      110667 choclo de la regi”n
+      110669 chonta
+      110670 lechuga de la regi”n
+      110672 tomate de la regi”n
+      110679 zanahoria chica de la regi”n
+      110701 aguaje;palmera
+      110702 albaricoque
+      110703 almendra
+      110704 ayrampito
+      110705 caimito
+      110706 capuli
+      110707 casta—a
+      110708 cereza
+      110709 chirimoya
+      110710 sidra
+      110711 ciruela seca
+      110712 ciruela
+      110713 coco
+      110714 cocona
+      110715 d¡tiles (palmera)
+      110716 durazno blanquillo
+      110717 orejones
+      110718 durazno en conserva
+      110719 huesillo
+      110720 fresa
+      110721 frutilla
+      110722 granadilla
+      110723 guaba o pacae (chambira)
+      110724 guayaba
+      110725 guinda
+      110726 guind”n (seco)
+      110727 higo (breva, higo blanco)
+      110728 higo (seco)
+      110729 lima
+      110730 lim”n
+      110731 lim”n dulce
+      110732 l⁄cuma
+      110733 macambo
+      110734 mamey
+      110735 mandarina
+      110736 mango criollo
+      110737 manzana corriente
+      110738 manzana delicia
+      110739 chilena
+      110740 maracuy¡
+      110741 mel”n
+      110742 membrillo
+      110743 moras
+      110744 naranja agria
+      110745 naranja de jugo
+      110746 naranja de mesa
+      110747 naranjilla (naranja china)
+      110748 nÕspero
+      110749 nueces (durazno seco s/pepa)
+      110750 palta (criolla o corriente)
+      110751 palta fuerte
+      110753 palta otras variedades
+      110754 papaya
+      110755 pecana
+      110756 pepino
+      110757 pera de agua
+      110758 pera corriente (perilla)
+      110759 manzana pero
+      110760 pijuayo
+      110761 pi—a
+      110762 pl¡tano guayaquil
+      110763 pl¡tano de la isla
+      110764 pl¡tano de seda
+      110765 pl¡tano biscocho
+      110766 pl¡tano congo
+      110767 pl¡tano manzano
+      110768 pl¡tano; otras variedades
+      110769 pomarrosa
+      110770 sandÕa
+      110771 tamarindo
+      110772 taperiba; palmera
+      110773 toronja pomelo
+      110775 tumbo (norte)
+      110776 tuna
+      110777 uva blanca (italia)
+      110778 uva
+      110779 pasas sin pepa (a granel)
+      110780 uvillas
+      110781 uvas; otros (borgo—o, mollar)
+      110782 zapote maduro
+      110783 otras frutas frescas (ca—a dulce, etc.)
+      110784 otras frutas secas
+      110785 otras frutas en conserva (ensalada de fruta)
+      110786 jugo de fruta (en lata)
+      110787 durazno melocot”n (abridor)
+      110788 manzanas otras (especial)
+      110790 palta de la regi”n
+      110794 mara—”n fruta (cerro de pasco)
+      110795 granada
+      110796 guanabana
+      110797 camucamu (iquitos)
+      110799 humari
+      110801 arveja seca entera
+      110802 arveja seca partida
+      110803 arvej”n seco
+      110804 chocho o tarhui (seco)
+      110805 frejol palo
+      110806 frejol bayo
+      110807 frejol caballero
+      110808 frejol canario
+      110809 frejol castilla
+      110810 frejol chileno; yunya, boc”n, sarandaja
+      110811 frejol chiclayo
+      110812 frejol chuncho
+      110813 frejol cocacho
+      110814 frejol huasca poroto, hu¡scar
+      110815 frejol negro
+      110816 frejol nuna
+      110817 frejol pardo
+      110818 frejol pintado
+      110819 frejol panamito
+      110820 frejol ucayalino
+      110821 frejol, otras variedades
+      110822 garbanzo
+      110823 habas secas
+      110824 harina de habas
+      110825 harina de soya
+      110826 harina de arveja
+      110827 lenteja bocona seca
+      110828 lenteja
+      110829 lentejones
+      110830 manÕ pelado crudo
+      110831 pallar
+      110832 soya grano seco
+      110833 otras harinas de menestras
+      110834 otras menestras
+      110835 preparados de soya (carne de soya)
+      110836 menestras en conserva
+      110837 frejol rosi—o
+      110838 frejol rojo
+      110839 garbanzo remojado
+      110840 habas remojadas
+      110841 otras menestras remojadas
+      110843 frejol chino seco
+      110844 habas secas
+      110845 mani con cascara (crudo)
+      110901 arracacha (camote blanco)
+      110902 camote morado
+      110903 camote amarillo
+      110904 harina de chu—o
+      110905 harina de nemanete
+      110907 harina de yuca (fari—a)
+      110909 iza—o
+      110910 mashua
+      110911 oca (kaya)
+      110912 olluco
+      110913 papa amarilla
+      110914 papa amarga
+      110915 papa blanca
+      110916 papa chu—o
+      110917 papa guadalina o chaucha
+      110918 papa huayro
+      110919 papa seca
+      110920 papa compis
+      110921 papa otras variedades
+      110922 sacha papa
+      110923 yuca amarilla
+      110924 yuca blanca
+      110925 otros tub…rculos y raÕces
+      110926 camote nemanente
+      110927 papa color
+      110928 chu—o entero
+      110929 chu—o remojado
+      110930 papa larga
+      111001 az⁄car blanca
+      111002 az⁄car en cubitos
+      111003 azucar en polvo (impalpable)
+      111004 az⁄car rubia
+      111005 otros az⁄cares (de remolacha)
+      111101 chocolate en pasta
+      111102 cacao semillas (grano seco)
+      111103 chocolates
+      111104 cocoa envasada
+      111105 cocoa a granel
+      111106 otros derivados del cacao
+      111107 anÕs (a granel y filtrante)
+      111108 boldo (a granel y filtrante)
+      111109 caf… instantaneo filtrante
+      111110 caf… grano entero (crudo)
+      111111 caf… grano entero (tostado)
+      111112 caf… instantaneo en lata
+      111113 caf… tostado molido a granel
+      111114 caf… tostado molido envasado
+      111115 emoliente en sobre (para preparar)
+      111116 hierbas para mate (cola de caballo y otras hierbas)
+      111117 manzanilla filtrante
+      111118 t… a granel
+      111119 t… envasado (cajÌta)
+      111120 t… filtrante
+      111121 otros productos para infusi”n
+      111122 chocolate malteado
+      111123 caf… instant¡neo
+      111126 coca de masticar
+      111127 leche asada (envasada)
+      111201 albahaca molida
+      111202 ajonjolÕ
+      111203 algarrobina
+      111204 bombones
+      111205 caramelos
+      111206 caramelos a granel
+      111207 confites (envasados)
+      111208 coco rayado
+      111209 chancaca
+      111210 esencias (vainilla, etc.)
+      111211 flan (envasado)
+      111212 frutas confitadas o acarameladas
+      111213 gelatina envasada
+      111214 gelatina (a granel)
+      111215 gomas de mascar
+      111216 harina de pl¡tano
+      111217 helado para preparar (envasado)
+      111218 jalea real
+      111219 mazamorra envasada
+      111220 manjar blanco
+      111221 melaza
+      111222 mermelada (vaso)
+      111223 miel de abeja
+      111224 miel de ca—a
+      111225 toffes (envasados)
+      111226 otras golosinas
+      111227 papillas (chisitos,etc. envasado)
+      111228 chisitos y papitas fritas (envasado)
+      111229 habitas fritas (envasado)
+      111230 camote frito (en sobre)
+      111231 pudÕn (envasado)
+      111232 pures (envasado:knorr, etc.)
+      111233 refrescos instant¡neos
+      111234 aceituna de botija
+      111235 aceituna seca-negra (preparada)
+      111236 aceituna verde
+      111237 achiote entero
+      111238 ajÕ molido panca (especial)
+      111239 ajo en polvo
+      111240 ajo entero
+      111241 ajo molido (envasado)
+      111242 ajo molido  (a granel)
+      111243 ajÕ molido rocoto
+      111244 ajÕ molido amarillo
+      111245 sazonador en sobre
+      111246 aji no moto
+      111247 canela entera (a granel)
+      111248 canela entera (envasada)
+      111249 canela molida
+      111250 canela molida (a granel)
+      111251 clavo de olor (envasado)
+      111252 clavo de olor (a granel)
+      111253 comino molido (a granel)
+      111254 comino molido
+      111255 comino entero (a granel)
+      111257 culantro molido
+      111258 hamburguesa cruda
+      111259 hongos y laurel (a granel)
+      111260 hongos y laurel (envasado)
+      111261 huacatay molido
+      111262 ki”n entero (jengibre)
+      111263 levadura
+      111264 polvo de hornear (royal, etc.)
+      111265 manÕ molido
+      111266 manÕ tostado entero
+      111267 mayonesa
+      111268 mostaza
+      111269 nuez moscada
+      111270 or…gano seco (a granel)
+      111271 or…gano seco (envasado)
+      111272 palillo (envasado)
+      111273 palillo (a granel)
+      111274 pan rallado
+      111275 ketchup
+      111276 pasta de tomate (tuco)
+      111277 piment”n (envasado)
+      111278 piment”n (a granel)
+      111279 pimiento (envasado)
+      111280 salsa de ocopa
+      111281 pimienta entera (envasado)
+      111282 pimienta entera (a granel)
+      111283 pimienta molida (a granel)
+      111284 pimienta molida
+      111285 queso rallado parmesano
+      111286 sal de cocina entera (granel)
+      111287 sal a granel
+      111288 sal de cocina yodada (envasada)
+      111289 sal gema (piedra)
+      111290 sal yodada de mesa (envasada)
+      111291 salsa de tomate
+      111292 colorante y saborizante (sibarita)
+      111293 alimentos en cubitos
+      111294 sopas (knorr, maggi, nicolini)
+      111295 condimentos saborizantes (sillao)
+      111296 vinagre corriente
+      111297 vinagre fino
+      111298 otros condimentos y colorantes
+      111299 want¡n (para freir)
+      111300 otros alimentos listos para cocinar
+      111301 otros alimentos (salsa tamarindo,curry, colapiz)
+      111302 salsa de papa a la huancaina
+      111303 ajo com⁄n
+      111304 suprema
+      111305 espinaca molida
+      111306 comino entero (envasado)
+      111307 chicha morada (sobre)
+      111308 crema volteada (envasada)
+      111309 hoja para envoltura (hoja de:bijao,plantano,panca,tamales)
+      111400 azafr¡n
+      111403 chifle
+      111409 pl¡tano (cocinado para llevar)
+      120103 agua mineral
+      120104 bebidas gaseosas
+      120106 n…ctar de frutas
+      130101 aguardiente de ca—a (ca—azo)
+      130102 anisado
+      130103 brandy
+      130104 cachina fermentada
+      130105 cascarrilla (aguardiente y cascaras)
+      130106 cerveza blanca (botella)
+      130108 cerveza negra
+      130109 champagne
+      130110 chicha de maÕz fermentada (jora)
+      130111 chuchuhuasi
+      130112 cog—ac
+      130113 gin
+      130114 guinda
+      130115 damasco (macerado)
+      130116 maltina
+      130117 masato
+      130118 pisco de uva
+      130120 ron
+      130121 sidra
+      130123 vino (damajuana)
+      130124 vino blanco
+      130125 vino tinto
+      130126 vodka
+      130127 whisky
+      130128 otras bebidas alcoh”licas
+      130129 esencia de licor
+      130130 alcoh”l hidratado
+      190101 afrecho
+      190102 alfalfa
+      190103 maÕz, trigo
+      190104 nicovita, conejita
+      190105 otros alimentos para animales (residuos vegetales,futuchi)
+      510446 protivan (polvo)
+      510520 bicarbonato de sodio
+      514301 achicoria
+      514303 anÕs
+      514304 canchalagua
+      514306 cedr”n
+      514307 chanca piedra
+      514308 coca
+      514309 cola de caballo
+      514310 culen
+      514311 escorsonera
+      514312 eucalipto
+      514313 grama dulce
+      514314 hierba luisa
+      514315 hinojo
+      514316 huamanripa
+      514317 linaza
+      514318 llant…n
+      514319 malva
+      514320 manayupa (pie de perro)
+      514321 manzanilla
+      514322 matico
+      514323 menta
+      514324 molle
+      514325 mu—a
+      514326 ortiga
+      514327 paico
+      514328 retama
+      514329 romero
+      514330 rosa com⁄n
+      514331 ruda
+      514332 salvia (flor blanca)
+      514333 san pedro
+      514334 sangre de grados
+      514335 s¡bila
+      514336 tara
+      514337 t… amargo
+      514338 tilo
+      514339 toronjil
+      514340 u—a de gato
+      514341 valeriana
+      514342 verbena
+      514343 aceite de lagarto
+      514344 flor blanca
+      514345 altea (cuzco)
+      514346 llipza (aditivo para macar coca)
+      514347 panti (cuzco)
+      710304 alimento para mascotas
+      710305 happy dog
+      710306 alpiste
+      710307 alimento para gatos
+      830101 agua de cebada
+      830102 agua de manzana
+      830103 agua mineral servida
+      830104 anisado servido
+      830105 men⁄ en centro de trabajo
+      830106 almuerzo en kiosko (incluye ambulante)
+      830107 comidas en rest.y kioskos (incluye sancochado,bisteck,etc)
+      830109 anticuchos
+      830110 brandy (cognac) servido
+      830111 bebidas gaseosas servidas
+      830112 otras bebidas alcoh”licas
+      830113 caf… servido
+      830114 cancha salada
+      830115 causa lime—a
+      830116 causa norte—a
+      830117 cena en cafeteria (centro de trabajo)
+      830118 cena en kiosko (incluye:ambulante)
+      830119 cena en rest.chifa,puesto de mercado,pensi”n
+      830120 cerveza blanca servida
+      830121 cerveza negra servida
+      830122 cockteles diversos
+      830123 menu en comedores populares y nacional
+      830124 comidas en cuarteles de ff.aa y pnp
+      830125 comidas en comedores
+      830126 tallarÕn saltado
+      830127 cremolada
+      830128 champagne servida
+      830129 chilcano de guinda
+      830130 chicha blanca de maÌz
+      830131 chicha de frutas
+      830132 chicha de jora
+      830133 chicha de manÕ
+      830134 chicha morada
+      830135 chicha fermentada (jora) servida
+      830136 chicharrones
+      830137 choclo con queso
+      830138 choncholines (pancitas)
+      830139 desayuno en cafeterÕa (centro de trabajo)
+      830140 desayuno y lonches al paso (kiosko)
+      830141 desayuno en restaurante
+      830142 emoliente
+      830143 chanfainita (bofe con mote)
+      830145 helados
+      830146 hÕgado con yuca
+      830147 humitas
+      830148 jugo de frutas licuado
+      830149 leche malteada
+      830150 leche caliente
+      830151 lonche en cafeterÕa
+      830152 lonche en kiosko
+      830153 lonche en restaurante
+      830154 lonche en cafeterÕa
+      830155 men⁄ familiar
+      830156 mote
+      830157 n…ctar de fruta
+      830158 ocopa
+      830159 palomitas de maÕz
+      830160 palta rellena
+      830161 papa rellena
+      830162 pizzas
+      830163 pisco de uva servida
+      830165 alimentos al paso (platos frios)
+      830166 pollo a la brasa
+      830167 pollo broster
+      830168 parrillada
+      830169 postres
+      830170 refresco instant¡neo
+      830171 rocoto relleno
+      830173 caldo de gallina
+      830174 sandwich
+      830175 salchipapa
+      830176 tamales
+      830177 t… servido
+      830178 chifa al paso
+      830183 ensalada de frutas
+      830185 aguardiente
+      830186 guarapo
+      830187 chicha de arroz
+      830188 cancha dulce
+      830189 juanes
+      830191 alimentos al paso (platos calientes:caldos)
+      830192 quaker con leche
+      830193 agua de anÕs
+      830194 agua de soya
+      830195 pachamanca
+      830196 champ⁄s
+      830197 chups marcianos
+      830198 caldo de pollo
+      830199 caliente de vino
+      900024 otras menudencias
+
+. 
+. log close
+      name:  <unnamed>
+       log:  /Users/rtenorio/Google Drive/Ind Study Powerhouse/Do Files/produc61.log
+  log type:  text
+ closed on:  21 Apr 2015, 11:53:54
+----------------------------------------------------------------------------------------------------------------------------
