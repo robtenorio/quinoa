@@ -4,7 +4,7 @@ libraries <- c("foreign", "stringr", "plyr", "dplyr", "RMySQL")
 lapply(libraries, library, character.only = TRUE)
 
 # save ENAHO directory
-wd_1 <- "/Users/rtenorio/Documents/Quinoa/ENAHO Data"
+wd_1 <- ###
 setwd(wd_1)
 # unzip all the .zip files found in the ENAHO directory
 enaho_zips <- list.files(wd_1, pattern = ".zip")
@@ -113,7 +113,7 @@ write.csv(sumaria_data, "Sumaria.csv", row.names = FALSE)
 # load sumaria, modulo01, and modulo22 to MySQL "quinoa" database on Amazon RDS
 con <- dbConnect(MySQL(),
                  user = 'rtenorio',
-                 password = 'samsung29',
+                 password = ###,
                  host = 'quinoa.cgi8bbclpmlt.us-west-2.rds.amazonaws.com',
                  dbname='quinoa')
 
@@ -121,7 +121,7 @@ dbWriteTable(conn = con, name = 'sumaria', value = sumaria_data, overwrite = TRU
 dbWriteTable(conn = con, name = 'modulo01', value = modulo01_data, overwrite = TRUE, row.names = FALSE)
 dbWriteTable(conn = con, name = 'modulo22', value = modulo22_data, overwrite = TRUE, row.names = FALSE)
 
-## Remove some data because they're too big
+## Remove some data because they're too big to store in memory
 rm(list = c("dta_data", "dta_data_modulo01", "dta_data_modulo22", "dta_data_sumaria",
             "modulo01_data", "modulo22_data", "modulo22_data_sub", "sumaria_data"))
 
